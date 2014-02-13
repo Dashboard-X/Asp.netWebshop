@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Default.aspx" title="Home"  description="Die Startseite">
+        <siteMapNode url="~/Products/Default.aspx" title="Produkte"  description="Die Produktübersicht" />
+        <siteMapNode url="~/About.aspx" title="Über uns"  description="Ein kurzer Text über die Entwickler" />
+		<siteMapNode url="~/Admin/Admin.aspx" title="Administration" description="Administrationsbereich" />
+		<siteMapNode url="~/Admin/Editor.aspx" title="Editor"
+					 description="Editor für Produkte, Kategorien, und andere Seiten der Homepage" />
+    </siteMapNode>
+</siteMap>

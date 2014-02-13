@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.net Webshop", "Asp.net Webshop\Asp.net Webshop.csproj", "{BDFEB90F-4DC0-45B1-9FE5-6D47E13D88D0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs10.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Asp.net\u0020Webshop\\Asp.net\u0020Webshop.csproj
+		SccProjectName1 = Asp.net\u0020Webshop
+		SccLocalPath1 = Asp.net\u0020Webshop
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFEB90F-4DC0-45B1-9FE5-6D47E13D88D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFEB90F-4DC0-45B1-9FE5-6D47E13D88D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFEB90F-4DC0-45B1-9FE5-6D47E13D88D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFEB90F-4DC0-45B1-9FE5-6D47E13D88D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
